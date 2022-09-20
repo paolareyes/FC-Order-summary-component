@@ -141,8 +141,8 @@ select{
 /* ------------------ */
 
 .card {
-  width: 85vw;
-  height: 82vh;
+  max-width: 20rem;
+  min-height: 30rem;
   display: grid;
   grid-template-columns: 1fr;
   grid-template-rows: 1fr 2.5fr;
