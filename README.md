@@ -31,8 +31,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [FrontendMentor](https://www.frontendmentor.io/solutions/)
-- Live Site URL: [Vercel](https://your-live-site-url.com)
+- Solution URL: [FrontendMentor](https://www.frontendmentor.io/solutions/order-summary-component-using-grid-p-KL7MIMwA)
+- Live Site URL: [Vercel](https://order-summary-component-seven-teal.vercel.app/)
 
 ## My process
 
